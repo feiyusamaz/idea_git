@@ -11,6 +11,6 @@ public class StudyController {
     @ResponseBody
     @RequestMapping("/hello")
     public String hello(){
-        return "大家好，才是真的好！";
+        return "大家好，才是真的好！！！";
     }
 }
